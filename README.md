@@ -1,6 +1,13 @@
 # SBTI
 
+[![GitHub stars](https://img.shields.io/github/stars/thzhangbio/SBTI?style=flat-square)](https://github.com/thzhangbio/SBTI/stargazers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/thzhangbio/SBTI?style=flat-square)](https://github.com/thzhangbio/SBTI)
+
 `SBTI` 是一个纯前端静态页面项目，用于学习和演示单页 HTML 网站的结构、样式与交互实现。
+
+如果这个项目对你有帮助，欢迎到 GitHub 给仓库点一个 Star：
+
+[https://github.com/thzhangbio/SBTI](https://github.com/thzhangbio/SBTI)
 
 ## 本地预览
 
